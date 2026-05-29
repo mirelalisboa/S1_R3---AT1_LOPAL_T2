@@ -1,5 +1,6 @@
 # EXERCICIOS PYTHON! 🐍
-
+a nossa atividade consite em, fazer aquilo que o algoritimo manda, em código python! 
+segue abaixo os exercícios pedidos.
 
 ##  1 ✌️
 Faça um algoritmo usando o for para mostrar os números pares e impares de 0 a 100.
