@@ -1,5 +1,8 @@
 # EXERCICIOS PYTHON! 🐍
-a nossa atividade consite em, fazer aquilo que o algoritimo manda, em código python! 
+A nossa atividade consite em, fazer aquilo que o algoritimo manda, em código python! 
+
+
+
 segue abaixo os exercícios pedidos.
 
 ##  1 ✌️
